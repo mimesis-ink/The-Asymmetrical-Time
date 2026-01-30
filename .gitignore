@@ -1,0 +1,29 @@
+# 临时文件 (Temporary files)
+*.tmp
+*.temp
+*~
+.DS_Store
+
+# 编辑器/IDE (Editors/IDEs)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 备份文件 (Backup files)
+*.bak
+*.backup
+
+# 草稿和笔记 (Drafts and notes)
+drafts/
+scratch/
+notes/
+
+# 操作系统文件 (OS files)
+Thumbs.db
+.DS_Store
+
+# 个人笔记（如果不想分享）(Personal notes if not sharing)
+# personal/
+# private/
